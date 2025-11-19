@@ -5,11 +5,6 @@ Users can explore temple information, book sevas online, and admins can manage a
 
 ---
 
-## 🔗 Live Demo  
-👉 **Live Website:** https://your-live-link-here.com  
-👉 **Backend API:** https://your-backend-link-here.com  
-
-*(Replace with your actual deployed URLs)*
 
 ---
 
