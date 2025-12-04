@@ -52,9 +52,13 @@ temple-management-system/
 │ ├── server.js
 
 │ ├── Routes/sevaroutes.js
+
 │ ├── controllers/sevacontroller.js
+
 │ ├── models/sevabooking.js
+
 │ ├── package.json
+
 │ └── .env
 │
 └── frontend/
