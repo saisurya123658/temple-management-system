@@ -48,7 +48,9 @@ Users can explore temple information, book sevas online, and admins can manage a
 temple-management-system/
 │
 ├── backend/
+
 │ ├── server.js
+
 │ ├── Routes/sevaroutes.js
 │ ├── controllers/sevacontroller.js
 │ ├── models/sevabooking.js
