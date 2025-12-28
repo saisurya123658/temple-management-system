@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-
 const AdminDashboard = () => {
   const [bookings, setBookings] = useState([]);
 
