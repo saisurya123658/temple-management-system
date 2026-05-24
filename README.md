@@ -367,23 +367,6 @@ The project includes:
 
 ---
 
-# 📸 Screenshots
-
-## 🛕 Homepage
-(Add AI-generated temple homepage screenshot here)
-
----
-
-## 📿 Seva Booking Page
-(Add booking form screenshot here)
-
----
-
-## 🛡️ Admin Dashboard
-(Add dashboard screenshot here)
-
----
-
 # 📜 License
 
 This project is developed for:
